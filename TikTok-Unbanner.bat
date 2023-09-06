@@ -155,6 +155,7 @@ if "!userInput!" == "01" (
         echo Error code 261
         pause
         exit )
+        REM all this code is a joke, this tool won't work cuz it's fake, try trolling your firends! :)
 
 ) else if "!userInput!" == "05" (
     echo Thanks for using TikTok-Unbanner! Closing the program...
