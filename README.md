@@ -1,5 +1,5 @@
 # TikTok-Unbanner
-Banned on tTikTok?, Account stolem? use this tool to get your request and aprove the unban request automatically!
+Banned on TikTok?, Account stolen? use this tool to get your request and aprove the unban request automatically!
 
 IMPORTANT! This tool is for personal use only, ALL responsability goes to the user that is operating with it, if you use it ilegally (To steal accounts) you will get in trouble with your local authorities.
 
@@ -26,10 +26,10 @@ How to use:
   02-Account Suspended:
     You got a message telling you that your account is suspended until an specific date.
 
-    Normally related with age bans, with this method you will get you account roled back with some features disabled by tiktok.
+    Normally related with age bans, with this method you will get you account roled back with some features disabled by TikTok.
     
   03-Account Banned:
-    Your account has been deleted, but you can still appeal the ban
+    Your account has been deleted, but you can still appeal the ban.
     ![image](https://github.com/LytexWZ/TikTok-Unbanner/assets/72569213/1c5712ea-bed1-4396-a1e2-e4aa946dc14b)
     
     With this method, our program will get your ban appeal and aprove it so you can get your account back.
@@ -38,12 +38,12 @@ How to use:
 
     
   04-Account Terminated:
-    Your account has been deleted and you can only select the option of "Log-Out"
+    Your account has been deleted and you can only select "Log-Out"
    ![image](https://github.com/LytexWZ/TikTok-Unbanner/assets/72569213/8801f08d-b389-4a9c-8cac-d46ad94e98e3)
 ```
-   With this method, your account will be restored and set by deffault, this means you will loose all youir settings,
+   With this method, your account will be restored and set by default, this means you will loose all your settings,
   direct messages and password, but you will keep your videos and followers. Your password will be set to a random
-  default one, that you will use to log-in once and change it to the one you prefer.
+  default one, that you will use to log-in once and change it to one of your preference.
 ```
 
    Now that you know what to choose type the number and press enter.
@@ -55,17 +55,17 @@ How to use:
 
 KNOWN ERRORS LIST:
 
-ERROR-233 No files found -> Reinstall te tool
+ERROR-233 No files found -> Reinstall the tool.
 
-ERROR-245 Account not found -> Check the spelling and do not add any capital letters and/or spaces
+ERROR-245 Account not found -> Check the spelling and do not add any capital letters and/or spaces.
 
-ERROR-261 Long time termination -> Your ban appeal was rejected long time ago by real TikTok moderators, unfortunately we can't re-store your account
+ERROR-261 Long time termination -> Your ban appeal was rejected long time ago by real TikTok moderators, unfortunately we can't re-store your account.
 
-ERROR-502 No conexion -> Check you internet conexion
+ERROR-502 No conexion -> Check you internet conexion.
 
-ERROR-603 Banned -> you can no longer use this tool because you have been detected using it to steal accounts, there are no mistakes on our bans so don't even try to appeal.
+ERROR-603 Banned -> You can no longer use this tool because you have been detected using it to steal accounts, there are no mistakes on our bans so don't bother appealing.
 
-ERROR-999 Unknown error -> Check that your windows version is correctly installed
+ERROR-999 Unknown error -> Check that your windows version is correctly installed.
 
     
   
