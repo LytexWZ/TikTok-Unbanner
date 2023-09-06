@@ -1,7 +1,7 @@
 # TikTok-Unbanner
-Banned on TikTok?, Account stolen? use this tool to get your request and aprove the unban request automatically!
+Banned on TikTok? Account stolen? Use this tool to get your request and aprove the unban request automatically!
 
-IMPORTANT! This tool is for personal use only, ALL responsability goes to the user that is operating with it, if you use it ilegally (To steal accounts) you will get in trouble with your local authorities.
+IMPORTANT! This tool is for personal use only, ALL responsability goes to the user that is operating it, if you use it ilegally (To steal accounts) you will get in trouble with your local authorities.
 
 [Current OS supported: Windows]
 
@@ -24,9 +24,9 @@ How to use:
 
     
   02-Account Suspended:
-    You got a message telling you that your account is suspended until an specific date.
+    You got a message telling you that your account is suspended until a specific date.
 
-    Normally related with age bans, with this method you will get you account roled back with some features disabled by TikTok.
+    Normally related with age related bans, with this method you will get you account roled back with some features disabled by TikTok.
     
   03-Account Banned:
     Your account has been deleted, but you can still appeal the ban.
@@ -66,6 +66,9 @@ ERROR-502 No conexion -> Check you internet conexion.
 ERROR-603 Banned -> You can no longer use this tool because you have been detected using it to steal accounts, there are no mistakes on our bans so don't bother appealing.
 
 ERROR-999 Unknown error -> Check that your windows version is correctly installed.
+
+
+Special thanks to Nikoosk for the grammar.
 
     
   
